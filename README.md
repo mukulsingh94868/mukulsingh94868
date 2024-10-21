@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Zentek Infosoft**
 
-- 🌱 I’m currently learning **React Js, Next Js, Node Js, Express Js**
+- 🌱 I’m currently learning **Typescript, Web3, AI/ML**
 
 - 💬 Ask me about **anything in MERN**
 
 - 📫 How to reach me **mukulsingh94868@gmail.com**
 
-- ⚡ Fun fact **When I’m not coding, I’m probably thinking about coding.**
+- ⚡ Fun fact **I’m probably thinking about coding when I'm not coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
